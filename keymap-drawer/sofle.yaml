@@ -62,7 +62,7 @@ layers:
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - '<: 2 (20.11T20:05):>'
+  - '<: 2 (20.11T20:22):>'
   - $$mdi:apple-keyboard-control$$
   - $$mdi:backspace-reverse-outline$$
   -= 1 =-:
@@ -130,7 +130,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - INS
-  '<: 2 (20.11T20:05):>':
+  '<: 2 (20.11T20:22):>':
   - '~'
   - {h: '1', s: '$$mdi:bluetooth-connect$$'}
   - {h: '2', s: '$$mdi:bluetooth-connect$$'}
