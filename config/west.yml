@@ -16,6 +16,6 @@ manifest:
       revision: main
     - name: nice-view-sun
       remote: mvbasov
-      revision: display_grid
+      revision: main
   self:
     path: config
